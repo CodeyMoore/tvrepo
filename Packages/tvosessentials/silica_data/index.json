@@ -1,0 +1,36 @@
+{
+    "bundle_id": "com.codeymoore.tvosessential",
+    "name": "tvOSEssentials",
+    "version": "1.0-6",
+    "tagline": "Essential Utilities ported to tvOS!",
+    "homepage": "https://codeymoore.github.io/tvrepo/",
+    "developer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "maintainer": {
+        "name": "Codey Moore",
+        "email": "codeymooredev@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/CodeyMooreDev"
+        },
+        {
+            "name": "Website",
+            "url": "https://codeymoore.github.io/repo/"
+        }
+    ],
+    "section": "Utilities",
+    "tint": "#FF000",
+    "works_min": "11.0.0",
+    "works_max": "14.5",
+    "featured": "true",
+    "changelog": [
+        {
+            "version": "1.0-6",
+            "changes": "Initial Release."
+        }
+    ]
+}
