@@ -1,3 +1,21 @@
+Package: com.codeymoore.switcherlabelsbegone
+Version: 1.0.0
+Architecture: appletvos-arm64
+Maintainer: Codey Moore
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.codeymoore.switcherlabelsbegone_1.0.0_appletvos-arm64.deb
+Size: 2290
+MD5sum: e028130590facf465f8db1c387cdd253
+SHA1: ae1e8a956352f940d38377be3953bc83eb7f5ecd
+SHA256: f882c4c67c307ccd0c66d214df9c1c98c5ac1c1f82b0b0343b2fb184872da9f6
+Section: Tweaks
+Description: Removes app switcher labels!
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/tvrepo/depictions/switcherlabelsbegone/SwitcherLabelsBeGone.json
+Icon: https://codeymoore.github.io/tvrepo/depictions/switcherlabelsbegone/images/icon.png
+Name: SwitcherLabelsBeGone
+
 Package: com.codeymoore.tvosessentials
 Version: 1.0-6
 Architecture: appletvos-arm64
