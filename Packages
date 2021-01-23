@@ -17,24 +17,6 @@ Icon: https://codeymoore.github.io/tvrepo/depictions/switcherlabelsbegone/images
 Name: SwitcherLabelsBeGone
 
 Package: com.codeymoore.tvosessentials
-Version: 1.0.1
-Architecture: appletvos-arm64
-Maintainer: Codey Moore
-Installed-Size: 116
-Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename: ./debs/com.codeymoore.tvosessentials_1.0.1_appletvos-arm64.deb
-Size: 24744
-MD5sum: 348e736e621acc1c9a13d5ddba963518
-SHA1: 54d2896e040a74ff8a1003406e899329daf65db5
-SHA256: 63743bccd242bffb5495d41513b4340f5c79e681ba9f81a3800926ccba2fad4c
-Section: Tweaks
-Description: Essential Utilities ported to tvOS
-Author: Codey Moore
-Depiction: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/tvOSEssentials.json
-Icon: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/images/icon.png
-Name: tvOSEssentials
-
-Package: com.codeymoore.tvosessentials
 Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: Codey Moore
