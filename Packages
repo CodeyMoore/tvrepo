@@ -34,3 +34,21 @@ Depiction: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/tvOSEss
 Icon: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/images/icon.png
 Name: tvOSEssentials
 
+Package: com.codeymoore.tvosessentials
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: Codey Moore
+Installed-Size: 244
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Filename: ./debs/com.codeymoore.tvosessentials_1.0.1-1_appletvos-arm64.deb
+Size: 148366
+MD5sum: e5b160b89202200a7c84ed8893c56232
+SHA1: 6a86d630ac03c285b8b8b8201881de561a5e3c6f
+SHA256: a735928695f003b0be2b11f1bfcc41fd0734593bf161f4c0d5344c11de9e766a
+Section: Tweaks
+Description: Essential Utilities ported to tvOS
+Author: Codey Moore
+Depiction: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/tvOSEssentials.json
+Icon: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/images/icon.png
+Name: tvOSEssentials
+
