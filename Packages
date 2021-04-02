@@ -34,3 +34,19 @@ Depiction: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/tvOSEss
 Icon: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/images/icon.png
 Name: tvOSEssentials
 
+Package: com.xmbc-kodi.kodikrypton
+Version: 17.6-7
+Architecture: appletvos-arm64
+Maintainer: Codey Moore
+Filename: ./debs/com.xmbc-kodi.kodikrypton.deb
+Size: 123023132
+MD5sum: e21555c83bf8b36c3b5a7aea0840fd97
+SHA1: f529039ece945236c50c6fe79462f242faa7034c
+SHA256: c7277a67f07c2db9c926f07f064675cddb926432e8805fb8f0588c1f579b4e54
+Section: Applications
+Description: Kodi Krypton for tvOS!
+Author: Kodi
+Depiction: https://codeymoore.github.io/tvrepo/depictions/KodiKrypton/KodiKrypton.json
+Icon: https://codeymoore.github.io/tvrepo/depictions/KodiKrypton/images/icon.png
+Name: Kodi Krypton
+
