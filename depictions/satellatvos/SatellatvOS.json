@@ -1,6 +1,6 @@
 {
-	"LongDescription" : "Removes app switcher labels! \nA simple tweak to remove the app names from the switcher.",
+	"LongDescription" : "Free iAP Hacker \nEnables free in-app purchases (Will not work for online games. Only works for offline games). Possibly the first iAP hacker for tvOS",
 	"MainTextColor" : "ffffff",
-	"AppIconURL" : "https://codeymoore.github.io/tvrepo/depictions/switcherlabelsbegone/images/icon.png",
-	"BackgroundImageURL" : "https://codeymoore.github.io/tvrepo/depictions/switcherlabelsbegone/images/background.png"
+	"AppIconURL" : "https://codeymoore.github.io/tvrepo/depictions/satellatvos/images/icon.png",
+	"BackgroundImageURL" : "https://codeymoore.github.io/tvrepo/depictions/satellatvos/images/background.png"
 }

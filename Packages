@@ -1,20 +1,20 @@
 Package: com.codeymoore.satellatvos
-Version: 1.0
+Version: 1.0.1
 Architecture: appletvos-arm64
 Maintainer: Codey Moore
 Installed-Size: 292
 Depends: mobilesubstrate
-Filename: ./debs/com.codeymoore.satellatvos_1.0_appletvos-arm64.deb
-Size: 117918
-MD5sum: af477f4ce1a6f3f9f6fa70d676ebc32d
-SHA1: e60478ee68b59471df0a9e2ce15add534539145f
-SHA256: c4e48f153682827fe008b76e680520828c514d90b0fee031bf6d7a47221506d9
+Filename: ./debs/com.codeymoore.satellatvos_1.0.1_appletvos-arm64.deb
+Size: 118224
+MD5sum: 2334d805303e4432458f66e0f89258a8
+SHA1: 21adb72a1b05f10fce4eaf2e73346a6f0196cf05
+SHA256: ee82511b9b60d88fb1b38763395bf10a9cf34fb7691fa14daa5d267a52f0df14
 Section: Tweaks
 Description: Free iAP for tvOS
 Author: Codey Moore
-Depiction: https://codeymoore.github.io/tvrepo/depictions/SatellatvOS/SatellatvOS.json
-Icon: https://codeymoore.github.io/tvrepo/depictions/SatellatvOS/images/icon.png
-Name: Satella for tvOS
+Depiction: https://codeymoore.github.io/tvrepo/depictions/satellatvos/SatellatvOS.json
+Icon: https://codeymoore.github.io/tvrepo/depictions/satellatvos/images/icon.png
+Name: SatellatvOS
 
 Package: com.codeymoore.switcherlabelsbegone
 Version: 1.0.0
