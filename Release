@@ -3,7 +3,7 @@ Label: Codey Moore's tvOS Repo
 Suite: stable
 Version: 1.0
 Codename: Stable
-Architectures: appletvos-arm
+Architectures: appletvos-arm64
 Components: main
 Icon: https://codeymoore.github.io/tvrepo/CydiaIcon.png
 Description: RIP Lil Peep
