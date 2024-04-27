@@ -52,3 +52,20 @@ Depiction: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/tvOSEss
 Icon: https://codeymoore.github.io/tvrepo/depictions/tvosessentials/images/icon.png
 Name: tvOSEssentials
 
+Package: preferenceloader
+Version: 1.5-15
+Architecture: appletvos-arm64
+Maintainer: Kevin Bradley
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_1.5-15_appletvos-arm64.deb
+Size: 24344
+MD5sum: 12da4432899eded38fa4e387745b76db
+SHA1: 9063f636381b86cd56e131d9f53d4d8014ed8d06
+SHA256: e232bd7c857a4a9d48ccc2d9f6773820ba7bf231c2855cdf27344dd5ba67cb97
+Section: System
+Description: load preferences in style, based on Dustin Howett's iOS version, now properly split into a lib & tweak
+Author: Kevin Bradley & Sam Bingner
+Icon: https://zenzeq.github.io/tv/nito.png
+Name: preferenceloader
+

@@ -1,0 +1,6 @@
+{
+	"LongDescription" : "Preferenceloader \nload preferences in style, based on Dustin Howett's iOS version, now properly split into a lib & tweak",
+	"MainTextColor" : "ffffff",
+	"AppIconURL" : "https://zenzeq.github.io/tv/nito.png",
+	"BackgroundImageURL" : "https://codeymoore.github.io/tvrepo/depictions/preferenceloader/images/background.png"
+}
